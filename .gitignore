@@ -6,6 +6,10 @@
 /.idea/workspace.xml
 /.idea/libraries
 app/app.iml
+.idea/
+gradle/
+gradlew
+gradlew.bat
 
 # Built application files
 *.apk
